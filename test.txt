@@ -4,4 +4,4 @@ im spider man
 Git tracks changes of files
 创建分支dev
 创建新分支 featuer1老分支main修改冲突
-分支管理策略
+分支管理策略101
